@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  rapidminer-aihub:
+  - apiVersion: v2
+    appVersion: 10.3.1
+    created: "2024-01-22T15:25:29.462366-04:00"
+    description: A Helm chart for RapidMiner AiHub
+    digest: 0a7dd0a9454504d93c342bca4652b1c1ccc5d6d6c0d6b338abe8add88d6c0262
+    name: rapidminer-aihub
+    type: application
+    urls:
+    - https://rapidminer.github.io/charts//rapidminer-aihub-10.3.1.tgz
+    version: 10.3.1
+generated: "2024-01-22T15:25:29.458297-04:00"
