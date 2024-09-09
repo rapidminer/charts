@@ -18,6 +18,5 @@ helm search repo rapidminer-charts-github -l
 ```bash
 # Example for version 2024.1.0: helm fetch rapidminer-charts-github/rapidminer-aihub --version 2024.1.0
 helm fetch rapidminer-charts-github/rapidminer-aihub --version [version]
-```bash
 ```
 
