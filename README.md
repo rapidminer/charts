@@ -20,3 +20,10 @@ helm search repo rapidminer-charts-github -l
 helm fetch rapidminer-charts-github/rapidminer-aihub --version [version]
 ```
 
+# Documentation
+
+For more details please refer to our documentation at:
+
+(https://docs.rapidminer.com/latest/hub/install/kubernetes/index.html)[https://docs.rapidminer.com/latest/hub/install/kubernetes/index.html]
+
+
