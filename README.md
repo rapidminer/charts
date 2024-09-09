@@ -1,6 +1,6 @@
 # RapidMiner Helm Charts
 
-## Adding this repository to your lise
+## Adding this repository to your list
 
 ```bash
 helm repo add rapidminer-charts-github https://rapidminer.github.io/charts/
