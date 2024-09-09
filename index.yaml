@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   rapidminer-aihub:
   - apiVersion: v2
+    appVersion: 2024.1.0
+    created: "2024-09-09T12:34:04.959643814+02:00"
+    description: A Helm chart for Altair AiHub
+    digest: 6d3a1736b713c74e005bf75b00d02bc431acfafc0e5f99fcef177bd090c5a135
+    name: rapidminer-aihub
+    type: application
+    urls:
+    - https://rapidminer.github.io/charts/rapidminer-aihub-2024.1.0.tgz
+    version: 2024.1.0
+  - apiVersion: v2
     appVersion: 2024.0.3
-    created: "2024-07-31T10:58:01.10946+02:00"
+    created: "2024-09-09T12:34:04.956598878+02:00"
     description: A Helm chart for Altair AiHub
     digest: e3755af4a133b1979d11e7c55a5017e8464ebd63176f5bd8c65d955fe5ec21b3
     name: rapidminer-aihub
@@ -13,7 +23,7 @@ entries:
     version: 2024.0.3
   - apiVersion: v2
     appVersion: 2024.0.1
-    created: "2024-07-31T10:58:01.10633+02:00"
+    created: "2024-09-09T12:34:04.953672681+02:00"
     description: A Helm chart for Altair AiHub
     digest: 40615c5dd4b9567a42c124a38634ab99816a4d019456b263794f4b4ee78d3d79
     name: rapidminer-aihub
@@ -23,7 +33,7 @@ entries:
     version: 2024.0.1
   - apiVersion: v2
     appVersion: 2024.0.0
-    created: "2024-07-31T10:58:01.103562+02:00"
+    created: "2024-09-09T12:34:04.951320551+02:00"
     description: A Helm chart for Altair AiHub
     digest: 75c851d93e38659ed85e5704cea33f7c3b1f32288a93c6ef1db9acf2721b85c0
     name: rapidminer-aihub
@@ -33,7 +43,7 @@ entries:
     version: 2024.0.0
   - apiVersion: v2
     appVersion: 10.3.2
-    created: "2024-07-31T10:58:01.099748+02:00"
+    created: "2024-09-09T12:34:04.947861986+02:00"
     description: A Helm chart for RapidMiner AiHub
     digest: 035a78a75e16c51db5e8e6b32415fa7d3993db6605006494bfba5bf4d7b1c974
     name: rapidminer-aihub
@@ -43,7 +53,7 @@ entries:
     version: 10.3.2
   - apiVersion: v2
     appVersion: 10.3.1
-    created: "2024-07-31T10:58:01.097061+02:00"
+    created: "2024-09-09T12:34:04.946013647+02:00"
     description: A Helm chart for RapidMiner AiHub
     digest: 0a7dd0a9454504d93c342bca4652b1c1ccc5d6d6c0d6b338abe8add88d6c0262
     name: rapidminer-aihub
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://rapidminer.github.io/charts/rapidminer-aihub-10.3.1.tgz
     version: 10.3.1
-generated: "2024-07-31T10:58:01.094252+02:00"
+generated: "2024-09-09T12:34:04.944012902+02:00"
